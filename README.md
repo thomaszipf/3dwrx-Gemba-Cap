@@ -6,12 +6,12 @@ The 3dwrx-gemba-cap uses a sliding mechanism that is supported by a spring to ho
 The mount is installed on a bump cap to ensure the employees protection and enable usage in safety relevant areas such as robot cells.
 
 ## What are the core features?
-• holds smartphone in “action cam” position
-• hands-free Solution to support native movement
-• optimized to print
-• caps are safety caps such as UVEX U-Cap Premium cover your head
-• thus, this might be applicable in difficult production environments such as within industrialized production cells.
-• assembled within 5 Minutes
+* holds smartphone in “action cam” position
+* hands-free Solution to support native movement
+* optimized to print
+* caps are safety caps such as UVEX U-Cap Premium cover your head
+* thus, this might be applicable in difficult production environments such as within industrialized production cells.
+* assembled within 5 Minutes
 
 ## How to setup:
 Place the part in “native” usage position, the way that the slider stands 90°. This way, the slider will not attach to the part. PLA for printing is fine and will work. Infill of 20% is enough but can be adjusted according to your needs.
