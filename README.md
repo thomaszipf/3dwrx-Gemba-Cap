@@ -5,6 +5,8 @@ The main need that has been addressed is to counter COVID 19 by reenable the sta
 The 3dwrx-gemba-cap uses a sliding mechanism that is supported by a spring to hold the smartphone in place.
 The mount is installed on a bump cap to ensure the employees protection and enable usage in safety relevant areas such as robot cells.
 
+![picture of gemba-cap](https://github.com/thomaszipf/3dwrx-gemba-cap/blob/main/images/Version6-Render4-thingiverse_bg_black_tt-ind.png)
+
 ## What are the core features?
 * holds smartphone in “action cam” position
 * hands-free Solution to support native movement
