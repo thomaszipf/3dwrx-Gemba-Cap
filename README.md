@@ -13,6 +13,7 @@ The mount is installed on a bump cap to ensure the employees protection and enab
   >
 </p>
 
+
 ## What are the core features?
 * holds smartphone in “action cam” position
 * hands-free Solution to support native movement
