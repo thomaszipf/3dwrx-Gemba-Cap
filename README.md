@@ -1,4 +1,4 @@
-# 3dwrx-Gemba-Cap
+# 3dwrx-gemba-cap
 
 ## The purpose of 3dwrx-gemba-cap
 The main need that has been addressed is to counter COVID 19 by reenable the staff to do GEMBA walks in production as well as provide technical guidance from a remote location without the hassle of traveling between locations.
