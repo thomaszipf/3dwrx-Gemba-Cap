@@ -9,7 +9,7 @@ The mount is installed on a bump cap to ensure the employees protection and enab
   <img 
     width="1000"
     height="800"
-    src="https://github.com/thomaszipf/3dwrx-gemba-cap/blob/main/images/Gemba-Cap.png"
+    src="https://github.com/thomaszipf/3dwrx-gemba-cap/blob/main/images/Gemba-Cap.PNG"
   >
 </p>
 
